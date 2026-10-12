@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -19,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
