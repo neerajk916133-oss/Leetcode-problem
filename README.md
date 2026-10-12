@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
