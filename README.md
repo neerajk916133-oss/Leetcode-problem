@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/neerajk916133-oss/Leetcode-problem/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
